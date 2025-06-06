@@ -76,4 +76,4 @@ MIT License
 
 ## ✉️ Contact
 
-For questions please contact [myt@uchicago.edu](mailto:myt@uchicago.edu)
+For questions please contact through Github
